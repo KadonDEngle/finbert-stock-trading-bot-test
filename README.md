@@ -1,4 +1,4 @@
-# FinBERT Stock Trading Bot 
+# FinBERT Stock Trading Bot Test
 
 This project demonstrates a basic implementation of a stock trading backtest using machine learning. The backtesting framework utilizes the Alpaca API for trading and Yahoo Finance for historical data. The machine learning model is implemented using the FinBERT sentiment analysis model.
 
